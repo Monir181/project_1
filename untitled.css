@@ -611,8 +611,8 @@ margin-top: -15px;
         font-size: 36px;
         line-height: 42px;
     }
- .body{
-  overflow:hidden;
+ body{
+  overflow-x:hidden;
  }
     .footertxt{
         font-size: 14px;
