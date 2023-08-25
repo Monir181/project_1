@@ -611,6 +611,9 @@ margin-top: -15px;
         font-size: 36px;
         line-height: 42px;
     }
+ .body{
+  overflow:hidden;
+ }
     .footertxt{
         font-size: 14px;
         line-height: 21px;
